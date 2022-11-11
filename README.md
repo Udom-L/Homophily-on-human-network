@@ -1,5 +1,4 @@
-# Homophily-human-network-project
-__Project : Stochastic Block Model network - Homophily on Human Interaction__ 
+# Homophily on Human Interaction via. Stochastic Block Model network 
 
 
 __Description__:
